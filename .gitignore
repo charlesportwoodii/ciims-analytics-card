@@ -1,0 +1,8 @@
+bower_components/
+node_modules
+*.log
+lib/
+css/build/*
+css/climacons-font.css
+fonts/climacons-font.css
+fonts/demo.html

@@ -1,0 +1,11 @@
+{
+    "name": "AnalyticsCard",
+    "description": "A card to display basic analytics from CiiMS' internal reporting engine",
+    "version": "0.0.1",
+    "image": "card.png",
+    "footerText": "Analytics Card",
+    "properties": {},
+    "availableTileSizes": [
+        "rectangle"
+    ]
+}
