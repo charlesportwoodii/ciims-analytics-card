@@ -12,6 +12,8 @@
 		version: "",
 
 		init: function() {
+			$.getScript("https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.1/Chart.min.js");
+			$.getScript("https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js");
 		},
 
 		preload: function() {},
