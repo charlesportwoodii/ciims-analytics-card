@@ -36,8 +36,7 @@
 						if (
 							!self.contains(this.uri, "/dashboard") &&
 							!self.contains(this.uri, "/cloud") &&
-							!self.contains(this.uri, "/login") &&
-							this.count >= 5
+							!self.contains(this.uri, "/login")
 						)
 						{
 							if (countedRows >= 15)
